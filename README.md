@@ -3,8 +3,8 @@
 > Tired of AI that babysits you, logs your prompts, or hits you with *"I can't do that"*?  
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
 
-[![Launch Venice](https://img.shields.io/badge/🚀_Launch_Venice-0A84FF?style=for-the-badge)](https://venice.ai/chat?ref=i4kyGp)
-[![No Account Needed](https://img.shields.io/badge/🔓_No_Signup_Required-00C853?style=for-the-badge)](https://venice.ai/chat?ref=i4kyGp)
+[![Launch Venice](https://img.shields.io/badge/🚀_Launch_Venice-0A84FF?style=for-the-badge)](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)
+[![No Account Needed](https://img.shields.io/badge/🔓_No_Signup_Required-00C853?style=for-the-badge)](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)
 [![Join Community](https://img.shields.io/badge/💬_Join_Discord-5865F2?style=for-the-badge)](https://discord.gg/venice)
 
 ---
@@ -28,7 +28,7 @@ This repo is a curated starting point for devs, writers, researchers, and privac
 ---
 
 ## 🛠️ Quick Start
-1. Open [Venice Chat](https://venice.ai/chat?ref=i4kyGp) in your browser
+1. Open [Venice Chat](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network) in your browser
 2. Drop a prompt: code, story, research, system design, art direction...
 3. Get fast, contextual responses without the usual lectures
 4. Keep everything private. Export or delete anytime.
@@ -57,7 +57,7 @@ This repo is a curated starting point for devs, writers, researchers, and privac
 ---
 
 ## 🔗 Direct Access
-> 🟢 [Start Chatting](https://venice.ai/chat?ref=i4kyGp)  
+> 🟢 [Start Chatting](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)  
 > 🟦 [Explore Pro Features](https://venice.ai/pricing?ref=i4kyGp)  
 > 🟨 [Read the Docs](https://docs.venice.ai)  
 > 🟧 [API & Integrations](https://docs.venice.ai/api)
@@ -91,6 +91,6 @@ If you value AI that respects your time, privacy, and creative freedom:
 ---
 
 > 🌿 *Built for creators, by creators. No tracking. No limits. Just AI that works.*  
-> 🔗 [Open Venice](https://venice.ai/chat?ref=i4kyGp)<!-- 24483390850 1 -->
+> 🔗 [Open Venice](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network)<!-- 24483390850 1 -->
 
 [![Visits](https://api.comiccursor.com/v1/badge?username=damacol&repo=gemini-alternative&style=flat)](https://github.com/Damacol/gemini-alternative)
